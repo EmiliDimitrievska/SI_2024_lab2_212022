@@ -9,7 +9,8 @@
 
 Тест случаи според критериумот Every branch
 
-![clipboard_image_9e1be5ce58eafc09](https://github.com/EmiliDimitrievska/SI_2024_lab2_212022/assets/126581303/f377d72f-970d-4d71-9161-b2b94a67290c)
+![clipboard_image_40d6132b55541fa0](https://github.com/EmiliDimitrievska/SI_2024_lab2_212022/assets/126581303/371f435e-728b-4333-b64f-231e0cbdf37a)
+
 
 Тест случаи според критериумот Every Statement
 
